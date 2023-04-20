@@ -25,7 +25,7 @@
 
  **2.安装edge** 
 
-更新系统所以软件包
+更新系统现所有软件包
 
 ```
 sudo dnf upgrade --refresh
